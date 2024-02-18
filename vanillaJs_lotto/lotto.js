@@ -1,4 +1,3 @@
-var isClicked = false
 var chiffresCliqués = []
 
 function afficher() {
